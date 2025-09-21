@@ -72,7 +72,7 @@ export function HeroSection() {
               Saba Anjum Gulgundi
             </h1>
             <p className="text-lg text-gray-700 dark:text-gray-300 pt-10">
-  I am a passionate Front-End Developer with 3+ years of experience building responsive, performant, and accessible web applications. I specialize in modern JavaScript frameworks like React, Next.js, and TypeScript, and have a strong understanding of UI/UX principles and design systems. 
+  I am a passionate Front-End Developer with 3+ years of experience building responsive, performant, and accessible web applications. I specialize in modern JavaScript frameworks like React and TypeScript, and have a strong understanding of UI/UX principles and design systems. 
   Over the course of my career, I have successfully delivered projects that improved user engagement and optimized workflows.
   </p>
           </div>
